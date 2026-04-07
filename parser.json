@@ -1,9 +1,9 @@
 {
-  "semver": false,
   "lang": "brightscript",
   "location": null,
   "parser_version": "253fdfaa23814cb46c2d5fc19049fa0f2f62c6da",
   "generate": null,
   "generate_from_json": null,
-  "url": "https://github.com/ajdelcimmuto/tree-sitter-brightscript"
+  "url": "https://github.com/ajdelcimmuto/tree-sitter-brightscript",
+  "semver": false
 }
