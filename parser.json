@@ -1,6 +1,6 @@
 {
-  "parser_version": "253fdfaa23814cb46c2d5fc19049fa0f2f62c6da",
-  "lang": "brightscript",
   "url": "https://github.com/ajdelcimmuto/tree-sitter-brightscript",
+  "lang": "brightscript",
+  "parser_version": "253fdfaa23814cb46c2d5fc19049fa0f2f62c6da",
   "semver": false
 }
